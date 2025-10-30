@@ -1,0 +1,248 @@
+{
+  "basic_info": {
+    "name": "Дмитрий Берсенев",
+    "titles": [
+      "Front-end разработчик",
+      "Разработчик интерактивных веб-приложений"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:telegram",
+        "url": "https://t.me/dmitriybers"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/BersenevDima"
+      },
+      {
+        "icon": "mdi:vk",
+        "url": "https://vk.com/id278349878"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "Обо мне",
+    "greeting": "Привет",
+    "content": " Меня зовут Дмитрий Берсенев. Я фронтенд-разработчик, создающий адаптивные и интерактивные веб-приложения с использованием современных технологий: React, TypeScript, JavaScript, CSS/SCSS. Я работал над различными проектами — от корпоративных приложений и интернет-магазинов до мини-приложений на хакатонах. В каждом проекте мне важно создавать удобный и красивый интерфейс, заботясь о пользовательском опыте и чистоте кода. Здесь вы можете посмотреть мои работы, узнать о моём опыте и технологиях, с которыми я работаю, и, если захотите, связаться со мной для сотрудничества!",
+    "image": "myProfile.jpg",
+    "tech_stacks": [
+      "devicon:javascript",
+      "devicon:react",
+      "devicon:typescript"
+    ]
+  },
+  "projects": {
+    "title": "Проекты",
+    "projects": [
+      {
+        "title": "Fastuna",
+        "startDate": "2024",
+        "description": "Это один из самых интересных проектов, с которым мне довелось работать. Я участвовал в улучшении сайта Fastuna, исправлял баги и внедрял дополнительные функциональные элементы, делая платформу более удобной и стабильной для пользователей. Работа позволила мне углубленно изучить современные front-end технологии, оптимизацию интерфейса и взаимодействие с динамическим контентом, а мой код проходил тщательную проверку и ревью, что обеспечивало высокое качество продукта.",
+        "images": [
+          "images/portfolio/fastuna/p1.png",
+          "images/portfolio/fastuna/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "CSS/SCSS"
+          }
+        ]
+      },
+      {
+        "title": "Markers Unity",
+        "startDate": "2024",
+        "description": "Одно из приложений, над которым я работал во время стажировки. Мне нужно было разработать интерфейс для мобильного приложения маркеров, которое позволяет создавать сценарии подбора индивидуальной палитры с помощью сервиса. Работа над приложением позволила мне многому научиться в области мобильной адаптивности, компонентов интерфейса, управления состоянием приложения, а также выполнения API-запросов для взаимодействия с сервером.",
+        "images": [
+          "images/portfolio/markersunity/p1.png",
+          "images/portfolio/markersunity/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          },
+          {
+            "class": "mdi:code-tags",
+            "name": "Styled Components"
+          }
+        ]
+      },
+      {
+        "title": "Тестовое задание для Цифрового Элемента",
+        "startDate": "2025",
+        "description": "Тестовое задание для Цифрового Элемента, где я создал адаптивную главную страницу с использованием Flex, Grid, БЭМ и SVG. Реализовал модальное окно с формой, включая валидацию на чистом JS/TS, отправку данных и отображение успешного попапа. Проект позволил мне улучшить навыки модульной структуры кода, переиспользования компонентов и работы с современными сборками (Webpack/Vite, PostCSS/SCSS, ESLint).",
+        "images": [
+          "images/portfolio/digitalelement/p1.png",
+          "images/portfolio/digitalelement/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:language-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "CSS/SCSS"
+          },
+          {
+            "class": "mdi:webpack",
+            "name": "Webpack/Vite"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Навыки",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "la:sass",
+        "level": "75"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-plain:csharp",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "fontisto:mysql",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "ri:git-branch-fill",
+        "level": "85"
+      },
+      {
+        "name": "Node.js",
+        "class": "teenyicons:nodejs-solid",
+        "level": "80"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Опыт",
+    "experiences": [
+      {
+        "company": "Unit6",
+        "title": "Front-end разработчик",
+        "years": "04.2024 - 06.2024",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "TypeScript",
+          "CSS/SCSS",
+          "API integration",
+          "UI/UX"
+        ],
+        "description": "Создавал и поддерживал пользовательский интерфейс проекта Fastuna, обеспечивая адаптивность, интерактивность и корректную работу компонентов."
+      },
+      {
+        "company": "ООО ПродТорг",
+        "title": "Full-stack разработчик",
+        "years": "04.2024 - 06.2024",
+        "mainTech": "TypeScript / C#",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "TypeScript",
+          "C#",
+          "ASP.NET Core Web API",
+          "База данных SQL",
+          "CSS/SCSS",
+          "Интеграция с API",
+          "UI/UX"
+        ],
+        "description": "Разработал интернет-магазин по продаже мясной продукции. Реализовал фронтенд на React JS и TypeScript, бэкенд на ASP.NET Core Web API и интегрировал базу данных для управления товарами и обработкой заказов."
+      },
+      {
+        "company": "Unit6 (стажировка)",
+        "title": "Front-end стажёр",
+        "years": "03.2024 - 04.2024",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "TypeScript",
+          "CSS/SCSS",
+          "API integration"
+        ],
+        "description": "Работал над фронтенд частью проекта Markers Unity, создавая интерфейс мобильного приложения маркеров и взаимодействие с API."
+      },
+      {
+        "company": "VK Mini Apps Hackathon",
+        "title": "Участник",
+        "years": "2024",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:vk",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "API integration",
+          "UI/UX"
+        ],
+        "description": "Разрабатывал мини-приложение «Переводчик» с адаптивным интерфейсом и обработкой API-запросов."
+      },
+      {
+        "company": "Челябинский Цинковый Завод",
+        "title": "Стажёр",
+        "years": "2023",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "CSS/SCSS",
+          "API integration"
+        ],
+        "description": "Интегрировал приложение для управления пропусками на предприятии, обеспечивая корректное отображение интерфейса и взаимодействие с внутренними сервисами."
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}

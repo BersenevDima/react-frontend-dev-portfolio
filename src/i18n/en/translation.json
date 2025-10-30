@@ -1,0 +1,248 @@
+{
+  "basic_info": {
+    "name": "Dmitry Bersenev",
+    "titles": [
+      "Front-end Developer",
+      "Web App Creator"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:telegram",
+        "url": "https://t.me/dmitriybers"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/BersenevDima"
+      },
+      {
+        "icon": "mdi:vk",
+        "url": "https://vk.com/id278349878"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": "My name is Dmitry Bersenev. I’m a front-end developer creating responsive and interactive web applications using modern technologies such as React, TypeScript, JavaScript, and CSS/SCSS. I’ve worked on various projects — from corporate applications and e-commerce platforms to mini apps at hackathons. In every project, I focus on building user-friendly and visually appealing interfaces, paying close attention to user experience and clean code. Here you can explore my work, learn about my experience and the technologies I use, and get in touch if you’d like to collaborate!",
+    "image": "myProfile.jpg",
+    "tech_stacks": [
+      "devicon:javascript",
+      "devicon:react",
+      "devicon:typescript"
+    ]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "Fastuna",
+        "startDate": "2024",
+        "description": "This is one of the most interesting projects I have worked on. I have been involved in improving the Fastuna website, fixing bugs, and implementing additional features to make the platform more user-friendly and stable. This work has allowed me to gain a deep understanding of modern front-end technologies, interface optimization, and dynamic content interaction, and my code has undergone rigorous testing and review to ensure the high quality of the product.",
+        "images": [
+          "images/portfolio/fastuna/p1.png",
+          "images/portfolio/fastuna/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "CSS/SCSS"
+          }
+        ]
+      },
+      {
+        "title": "Markers Unity",
+        "startDate": "2024",
+        "description": "One of the applications I worked on during my internship. I had to develop an interface for a mobile marker app that allows you to create custom color picker scenarios using the service. Working on the app allowed me to learn a lot about mobile responsiveness, interface components, app state management, and API requests for server interaction.",
+        "images": [
+          "images/portfolio/markersunity/p1.png",
+          "images/portfolio/markersunity/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          },
+          {
+            "class": "mdi:code-tags",
+            "name": "Styled Components"
+          }
+        ]
+      },
+      {
+        "title": "Test Digital Element Task",
+        "startDate": "2025",
+        "description": "A test assignment for the Digital Element, where I created a responsive homepage using Flex, Grid, BEM, and SVG. I implemented a modal window with a form, including validation in pure JS/TS, data submission, and successful pop-up display. This project allowed me to improve my skills in modular code structure, component reuse, and working with modern build tools (Webpack/Vite, PostCSS/SCSS, ESLint).",
+        "images": [
+          "images/portfolio/digitalelement/p1.png",
+          "images/portfolio/digitalelement/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:language-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "CSS/SCSS"
+          },
+          {
+            "class": "mdi:webpack",
+            "name": "Webpack/Vite"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "la:sass",
+        "level": "75"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-plain:csharp",
+        "level": "65"
+      },
+      {
+        "name": "MySql",
+        "class": "fontisto:mysql",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "ri:git-branch-fill",
+        "level": "85"
+      },
+      {
+        "name": "Node.js",
+        "class": "teenyicons:nodejs-solid",
+        "level": "80"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "Unit6",
+        "title": "Front-end Developer",
+        "years": "04.2024 - 06.2024",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "TypeScript",
+          "CSS/SCSS",
+          "API integration",
+          "UI/UX"
+        ],
+        "description": "Created and maintained the user interface of the Fastuna project, ensuring responsiveness, interactivity, and proper component functionality."
+      },
+      {
+        "company": "ООО ПродТорг",
+        "title": "Full-stack Developer",
+        "years": "04.2024 - 06.2024",
+        "mainTech": "TypeScript / C#",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "TypeScript",
+          "C#",
+          "ASP.NET Core Web API",
+          "SQL Database",
+          "CSS/SCSS",
+          "API integration",
+          "UI/UX"
+        ],
+        "description": "Developed an e-commerce platform for selling meat products. Implemented the frontend using React JS and TypeScript, backend with ASP.NET Core Web API, and integrated a database for product management and order processing."
+      },
+      {
+        "company": "Unit6 (Internship)",
+        "title": "Front-end Intern",
+        "years": "03.2024 - 04.2024",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "TypeScript",
+          "CSS/SCSS",
+          "API integration"
+        ],
+        "description": "Worked on the frontend part of the Markers Unity project, creating the mobile marker app interface and integrating with APIs."
+      },
+      {
+        "company": "VK Mini Apps Hackathon",
+        "title": "Participant",
+        "years": "2024",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:vk",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "API integration",
+          "UI/UX"
+        ],
+        "description": "Developed a mini app 'Translator' with a responsive interface and API request handling."
+      },
+      {
+        "company": "Chelyabinsk Zinc Plant",
+        "title": "Intern",
+        "years": "2023",
+        "mainTech": "React JS",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "React JS",
+          "JavaScript",
+          "CSS/SCSS",
+          "API integration"
+        ],
+        "description": "Integrated an application for managing passes at the plant, ensuring correct interface display and interaction with internal services."
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
