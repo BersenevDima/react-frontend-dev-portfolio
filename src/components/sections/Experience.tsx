@@ -30,7 +30,7 @@ const Experience = () => {
             key={exp.title}
             date={exp.years}
             dateClassName="dark:text-white"
-            iconClassName="bg-[#AE944F] text-white dark:bg-[#919191]"
+            iconClassName="bg-[#f0af78] text-white dark:bg-[#919191]"
             icon={<Icon icon={exp.mainTechIcon} />}
             className="dark:brightness-80 dark:filter"
           >
@@ -53,7 +53,7 @@ const Experience = () => {
           </VerticalTimelineElement>
         ))}
         <VerticalTimelineElement
-          iconClassName="bg-[#AE944F] text-white dark:bg-[#919191]"
+          iconClassName="bg-[#f0af78] text-white dark:bg-[#919191]"
           icon={<Icon icon="eos-icons:hourglass" />}
         />
       </VerticalTimeline>

@@ -30,7 +30,7 @@ export default {
     colors: {
       white: "#fff",
       black: "#000",
-      yellow: "#e9d5a1",
+      yellow: "#f4d9b2",
       "gray-dark": "#353239",
       body: "#212529",
       gray: "#8492a6",

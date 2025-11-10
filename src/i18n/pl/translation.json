@@ -35,6 +35,34 @@
     "title": "Проекты",
     "projects": [
       {
+        "title": "Тестовое задание для Цифрового Элемента",
+        "startDate": "2025",
+        "description": "Тестовое задание для Цифрового Элемента, где я создал адаптивную главную страницу с использованием Flex, Grid, БЭМ и SVG. Реализовал модальное окно с формой, включая валидацию на чистом JS/TS, отправку данных и отображение успешного попапа. Проект позволил мне улучшить навыки модульной структуры кода, переиспользования компонентов и работы с современными сборками (Webpack/Vite, PostCSS/SCSS, ESLint).",
+        "images": [
+          "images/portfolio/digitalelement/p1.png",
+          "images/portfolio/digitalelement/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:language-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "CSS/SCSS"
+          },
+          {
+            "class": "mdi:webpack",
+            "name": "Webpack/Vite"
+          }
+        ]
+      },
+      {
         "title": "Fastuna",
         "startDate": "2024",
         "description": "Это один из самых интересных проектов, с которым мне довелось работать. Я участвовал в улучшении сайта Fastuna, исправлял баги и внедрял дополнительные функциональные элементы, делая платформу более удобной и стабильной для пользователей. Работа позволила мне углубленно изучить современные front-end технологии, оптимизацию интерфейса и взаимодействие с динамическим контентом, а мой код проходил тщательную проверку и ревью, что обеспечивало высокое качество продукта.",
@@ -45,7 +73,7 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon:react",
+            "class": "mdi:react",
             "name": "React"
           },
           {
@@ -83,30 +111,47 @@
         ]
       },
       {
-        "title": "Тестовое задание для Цифрового Элемента",
-        "startDate": "2025",
-        "description": "Тестовое задание для Цифрового Элемента, где я создал адаптивную главную страницу с использованием Flex, Grid, БЭМ и SVG. Реализовал модальное окно с формой, включая валидацию на чистом JS/TS, отправку данных и отображение успешного попапа. Проект позволил мне улучшить навыки модульной структуры кода, переиспользования компонентов и работы с современными сборками (Webpack/Vite, PostCSS/SCSS, ESLint).",
+        "title": "ПродТорг",
+        "startDate": "2024",
+        "description": "Интернет-магазин, разработанный для компании ООО «ПродТорг», специализирующейся на продаже мясной продукции. Проект был создан с нуля с использованием современных технологий — React, TypeScript и SCSS. Я реализовал адаптивный интерфейс, систему каталогов и фильтров по категориям, корзину покупок и интеграцию с REST API для управления товарами и заказами. На стороне сервера был разработан API на ASP.NET Core Web API с использованием C# и интеграцией SQL базы данных. Особое внимание уделялось оптимизации производительности, удобству навигации и визуальному оформлению, отражающему фирменный стиль компании. Благодаря компонентному подходу и строгой типизации на TypeScript, приложение получилось надёжным, масштабируемым и легко поддерживаемым.",
         "images": [
-          "images/portfolio/digitalelement/p1.png",
-          "images/portfolio/digitalelement/p2.png"
+          "images/portfolio/prodtorg/p1.png",
+          "images/portfolio/prodtorg/p2.png",
+          "images/portfolio/prodtorg/p3.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "mdi:language-javascript",
-            "name": "JavaScript"
+            "class": "mdi:react",
+            "name": "React"
           },
           {
-            "class": "teenyicons:typescript-outline",
+            "class": "mdi:language-typescript",
             "name": "TypeScript"
           },
           {
-            "class": "teenyicons:css3-outline",
-            "name": "CSS/SCSS"
+            "class": "mdi:language-csharp",
+            "name": "C#"
           },
           {
-            "class": "mdi:webpack",
-            "name": "Webpack/Vite"
+            "class": "mdi:dot-net",
+            "name": "ASP.NET Core Web API"
+          },
+          {
+            "class": "mdi:database",
+            "name": "SQL Database"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "SCSS"
+          },
+          {
+            "class": "mdi:docker",
+            "name": "Docker"
+          },
+          {
+            "class": "mdi:api",
+            "name": "REST API Integration"
           }
         ]
       }

@@ -35,6 +35,34 @@
     "title": "projects",
     "projects": [
       {
+        "title": "Test Digital Element Task",
+        "startDate": "2025",
+        "description": "A test assignment for the Digital Element, where I created a responsive homepage using Flex, Grid, BEM, and SVG. I implemented a modal window with a form, including validation in pure JS/TS, data submission, and successful pop-up display. This project allowed me to improve my skills in modular code structure, component reuse, and working with modern build tools (Webpack/Vite, PostCSS/SCSS, ESLint).",
+        "images": [
+          "images/portfolio/digitalelement/p1.png",
+          "images/portfolio/digitalelement/p2.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "mdi:language-javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "CSS/SCSS"
+          },
+          {
+            "class": "mdi:webpack",
+            "name": "Webpack/Vite"
+          }
+        ]
+      },
+      {
         "title": "Fastuna",
         "startDate": "2024",
         "description": "This is one of the most interesting projects I have worked on. I have been involved in improving the Fastuna website, fixing bugs, and implementing additional features to make the platform more user-friendly and stable. This work has allowed me to gain a deep understanding of modern front-end technologies, interface optimization, and dynamic content interaction, and my code has undergone rigorous testing and review to ensure the high quality of the product.",
@@ -45,7 +73,7 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon:react",
+            "class": "mdi:react",
             "name": "React"
           },
           {
@@ -83,30 +111,47 @@
         ]
       },
       {
-        "title": "Test Digital Element Task",
-        "startDate": "2025",
-        "description": "A test assignment for the Digital Element, where I created a responsive homepage using Flex, Grid, BEM, and SVG. I implemented a modal window with a form, including validation in pure JS/TS, data submission, and successful pop-up display. This project allowed me to improve my skills in modular code structure, component reuse, and working with modern build tools (Webpack/Vite, PostCSS/SCSS, ESLint).",
+        "title": "ProdTorg",
+        "startDate": "2024",
+        "description": "An online store developed for ProdTorg LLC, a company specializing in the sale of meat products. The project was created from scratch using modern technologies — React, TypeScript and SCSS. I have implemented an adaptive interface, a catalog system and filters by category, a shopping cart, and integration with the REST API for managing products and orders. On the server side, an API was developed for ASP.NET Core Web API using C# and SQL database integration. Special attention was paid to performance optimization, ease of navigation and visual design reflecting the corporate identity of the company. Thanks to the component-based approach and strict TypeScript typing, the application turned out to be reliable, scalable and easily maintainable.",
         "images": [
-          "images/portfolio/digitalelement/p1.png",
-          "images/portfolio/digitalelement/p2.png"
+          "images/portfolio/prodtorg/p1.png",
+          "images/portfolio/prodtorg/p2.png",
+          "images/portfolio/prodtorg/p3.png"
         ],
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "mdi:language-javascript",
-            "name": "JavaScript"
+            "class": "mdi:react",
+            "name": "React"
           },
           {
-            "class": "teenyicons:typescript-outline",
+            "class": "mdi:language-typescript",
             "name": "TypeScript"
           },
           {
-            "class": "teenyicons:css3-outline",
-            "name": "CSS/SCSS"
+            "class": "mdi:language-csharp",
+            "name": "C#"
           },
           {
-            "class": "mdi:webpack",
-            "name": "Webpack/Vite"
+            "class": "mdi:dot-net",
+            "name": "ASP.NET Core Web API"
+          },
+          {
+            "class": "mdi:database",
+            "name": "SQL Database"
+          },
+          {
+            "class": "teenyicons:css3-outline",
+            "name": "SCSS"
+          },
+          {
+            "class": "mdi:docker",
+            "name": "Docker"
+          },
+          {
+            "class": "mdi:api",
+            "name": "REST API Integration"
           }
         ]
       }

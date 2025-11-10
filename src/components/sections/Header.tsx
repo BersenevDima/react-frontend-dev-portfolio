@@ -55,7 +55,7 @@ const Header = () => {
                 icon="noto-v1:crescent-moon"
                 style={{
                   fontSize: 25,
-                  marginLeft: 20,
+                  marginLeft: 18,
                   height: "100%",
                 }}
               />
@@ -65,7 +65,7 @@ const Header = () => {
                 icon="noto-v1:sun"
                 style={{
                   fontSize: 25,
-                  marginLeft: 20,
+                  marginLeft: 8,
                   height: "100%",
                 }}
               />
